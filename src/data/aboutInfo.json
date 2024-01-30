@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Nossa Loja",
+    "description": "Somos uma loja especializada em calçados esportivos. Oferecemos uma ampla seleção de tênis de alta qualidade, diversos modelaos e marcas de acordo com seu estilo.",
+    "image": "/images/ecommerce.jpg"
+  },
+  {
+    "title": "Envio",
+    "description": "Garantimos um serviço de entrega rápido e confiável. Trabalhamos com transportadoras parceiras para garantir que seus produtos cheguem até você com segurança e no prazo.",
+    "image": "/images/delivery.jpg"
+  },
+  {
+    "title": "Pagamento",
+    "description": "Facilitamos o pagamento para proporcionar uma experiência de compra eficiente. Aceitamos diversos métodos de pagamento, como cartões de crédito e transferências bancárias.",
+    "image": "/images/payment.jpg"
+  }
+]

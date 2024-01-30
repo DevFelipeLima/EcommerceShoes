@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Tênis Nike Air Max Alpha",
+    "pricing": 1919.99,
+    "dateInclusion": "2022-05-15T08:00:00.000Z",
+    "description": "Descrição resumida do Produto 1",
+    "image": "/images/airmax.png",
+    "id": 1
+  },
+  {
+    "name": "Tênis Nike Zoom Fly 5",
+    "pricing": 529.53,
+    "dateInclusion": "2022-08-27T16:30:00.000Z",
+    "description": "Descrição resumida do Produto 2",
+    "image": "/images/Yellowsoosh.jpg",
+    "id": 2
+  },
+  {
+    "name": "Tênis Nike Invincible 3",
+    "pricing": 655.29,
+    "dateInclusion": "2023-02-03T12:45:00.000Z",
+    "description": "Descrição resumida do Produto 3",
+    "image": "/images/redsoosh.png",
+    "id": 3
+  },
+  {
+    "name": "Tênis Nike Metcon 9",
+    "pricing": 149.99,
+    "dateInclusion": "2023-10-21T05:15:00.000Z",
+    "description": "Descrição resumida do Produto 4",
+    "image": "/images/pinksoosh.png",
+    "id": 4
+  },
+  {
+    "name": "Tênis Nike Pegasus",
+    "pricing": 159.99,
+    "dateInclusion": "2023-07-07T20:22:00.000Z",
+    "description": "Descrição resumida do Produto 5",
+    "image": "/images/bluesoosh.jpg",
+    "id": 5
+  },
+  {
+    "name": "Tênis Nike Free Metcon 5",
+    "pricing": 259.99,
+    "dateInclusion": "2023-07-07T20:22:00.000Z",
+    "description": "Descrição resumida do Produto 5",
+    "image": "/images/whitesoosh.png",
+    "id": 6
+  }
+]
