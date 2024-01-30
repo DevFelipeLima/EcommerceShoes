@@ -28,7 +28,7 @@ Projeto feito seguindo as recomendações técnicas descritas, envidadas afim de
 
 ### 1. Clone o repositório do GitHub:
 
-#### comando: git clone
+#### comando: git clone https://github.com/DevFelipeLima/EcommerceShoes.git
 
 ### 2. Se estiver no terminal, navegue até o repositório com o comando **"cd seu-repositório"** depois abra o vscode com o comando **"code ."**, se não abra a pasta clonada com o vscode e vá até o terminal.
 
